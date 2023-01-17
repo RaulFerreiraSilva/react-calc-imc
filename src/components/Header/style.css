@@ -1,0 +1,10 @@
+.headerContainer{
+    max-width: 900px;
+    margin: 40px auto ;
+}
+
+@media (max-width: 770px) {
+    .headerContainer{
+        padding: 0 20px;
+      }  
+}
